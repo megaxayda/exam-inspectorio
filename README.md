@@ -1,15 +1,7 @@
-# Vite + React + Typescript + Eslint + Prettier
+# Exam
 
-A starter for React with Typescript with the fast Vite and all static code testing with Eslint and formatting with Prettier.
+https://storage.googleapis.com/inspectorio-files-upload-staging/challenge-web.html
 
-![Vite + React + Typescript + Eslint + Prettier](/resources/screenshot.png)
+![image](https://user-images.githubusercontent.com/20489253/172172989-8b3ef4ae-a870-42e5-80a8-c2c0333b206a.png)
 
-I found out about Vite and I wanted to have a boilerplate for the technologies that I use. You can find more about these in the following links: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/).
-
-## Installation
-
-Clone the repo and run `yarn install`
-
-## Start
-
-After the successfull installation of the packages: `yarn dev`
+![image](https://user-images.githubusercontent.com/20489253/172173030-29c59116-197a-48e6-86a0-87509b30fe0d.png)
