@@ -1,6 +1,5 @@
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
-import MenuIcon from '@mui/icons-material/Menu';
-import { Button, IconButton } from '@mui/material';
+import { Button } from '@mui/material';
 import AppBar from '@mui/material/AppBar';
 import Avatar from '@mui/material/Avatar';
 import Box from '@mui/material/Box';
@@ -13,7 +12,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import React from 'react';
 import { useQuery } from 'react-query';
-import { useLocation, useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 
 export default function Person() {
   const { id } = useParams();
